@@ -1,6 +1,6 @@
 {
   "name": "autogitupdater",
-  "version": "1.0.6",
+  "version": "1.1.0",
   "description": "github webhook auto updater",
   "main": "index.js",
   "dependencies": {
