@@ -1,0 +1,11 @@
+{
+  "name": "autogitupdater",
+  "version": "1.0.2",
+  "description": "github webhook auto updater",
+  "main": "index.js",
+  "dependencies": {
+    "shelljs": "^0.8.3"
+  },
+  "author": "Mathieu Colmon",
+  "license": "ISC"
+}
