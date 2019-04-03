@@ -1,0 +1,15 @@
+{
+  "name": "auto-update-github",
+  "version": "1.0.0",
+  "description": "auto update github repository",
+  "main": "main.js",
+  "dependencies": {
+    "autogitupdater": "latest",
+    "express": "^4.16.4"
+  },
+  "scripts": {
+    "start": "nodemon main"
+  },
+  "author": "Mathieu Colmon",
+  "license": "ISC"
+}
