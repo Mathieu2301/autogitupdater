@@ -4,7 +4,8 @@
   "description": "github webhook auto updater",
   "main": "index.js",
   "dependencies": {
-    "shelljs": "^0.8.3"
+    "shelljs": "^0.8.3",
+    "nodemon": "latest"
   },
   "author": "Mathieu Colmon",
   "license": "ISC"
